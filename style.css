@@ -21,6 +21,6 @@
 @media (max-width: 1200px) {
   /* For a screen < 540px, this CSS will be read */
   .container {
-    width: 900px;
+    width: 901px;
   }
 }
